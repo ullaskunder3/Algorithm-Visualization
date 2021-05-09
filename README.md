@@ -1,5 +1,8 @@
 # Sort Visualization
 
+This is an example of bubble sort, I will try to upload other Visualization practical
+![example](example.png)
+
 ## Table Of Content
 
 - [Bubble Sort Theory](#Bubble-Sort-Theory)
