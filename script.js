@@ -11,7 +11,9 @@ function setup() {
 
   for (let i = 0; i < values.length; i++) {
     values[i] = random(height);
+    
     values[i] = noise(i/100.0)*height;
+    //try commenting out the above line
     
   }
 }
